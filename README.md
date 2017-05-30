@@ -5,8 +5,7 @@ This repo contains implementation code for various concepts of Operating System
 List: 
 * Disk Scheduling (Java)
 
-    In operating systems, seek time is very important. Since all device requests are linked in queues, the seek time is increased causing the system to slow down. Disk Scheduling Algorithms are used to reduce the total seek time of any request.
-Although there are other algorithms that reduce the seek time of all requests, I will only concentrate on the following disk scheduling algorithms:
+    In operating systems, seek time is very important. Since all device requests are linked in queues, the seek time is increased causing the system to slow down. Disk Scheduling Algorithms are used to reduce the total seek time of any request. Although there are other algorithms that reduce the seek time of all requests, I will only concentrate on the following disk scheduling algorithms:
 
    [1. First Come-First Serve (FCFS)](https://www.youtube.com/watch?v=X63lwwQtpic)
 
