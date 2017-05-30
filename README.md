@@ -18,7 +18,9 @@ These algorithms are not hard to understand, but they can confuse someone becaus
 The other three 
 
    [4) Circular SCAN (C-SCAN)](https://www.youtube.com/watch?v=3wwadNI2OMc&t=273s)
+   
    [5) LOOK](https://www.youtube.com/watch?v=junVVYqF4ms)
+   
    [6) C-LOOK](https://www.youtube.com/watch?v=junVVYqF4ms)
 
 can be very easily derived from the SCAN code.
