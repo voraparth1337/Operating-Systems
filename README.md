@@ -16,6 +16,7 @@ Although there are other algorithms that reduce the seek time of all requests, I
 
 These algorithms are not hard to understand, but they can confuse someone because they are so similar. What we are striving for by using these algorithms is keeping Head Movements (# tracks) to the least amount as possible. The less the head has to move the faster the seek time will be.
 The other three 
+
     
     [4. Circular SCAN (C-SCAN)](https://www.youtube.com/watch?v=3wwadNI2OMc&t=273s)
    
