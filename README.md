@@ -27,6 +27,8 @@ I have included the tutorial video links.
 
 * Dining Philosophers Problem using Threads (Java)
 
+In computer science, the dining philosophers problem is an example problem often used in concurrent algorithm design to illustrate synchronization issues and techniques for resolving them.
+
 * File Operations (Java)
 
 Includes various file operations in Java
