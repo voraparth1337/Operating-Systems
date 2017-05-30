@@ -9,14 +9,20 @@ List:
 Although there are other algorithms that reduce the seek time of all requests, I will only concentrate on the following disk scheduling algorithms:
 
 [1) First Come-First Serve (FCFS)](https://www.youtube.com/watch?v=X63lwwQtpic)
+
 [2) Shortest Seek Time First (SSTF)](https://www.youtube.com/watch?v=X63lwwQtpic)
+
 [3) Elevator (SCAN)](https://www.youtube.com/watch?v=3wwadNI2OMc&t=273s)
+
 These algorithms are not hard to understand, but they can confuse someone because they are so similar. What we are striving for by using these algorithms is keeping Head Movements (# tracks) to the least amount as possible. The less the head has to move the faster the seek time will be.
 The other three
 
 [4) Circular SCAN (C-SCAN)](https://www.youtube.com/watch?v=3wwadNI2OMc&t=273s)
+
 [5) LOOK](https://www.youtube.com/watch?v=junVVYqF4ms)
+
 [6) C-LOOK](https://www.youtube.com/watch?v=junVVYqF4ms)
+
 can be very easily derived from the SCAN code.
 I have included the tutorial video links.
 
