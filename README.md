@@ -1,6 +1,6 @@
 # Operating-Systems
 
-This repo contains implementation code for various concepts of Operating System
+This repo contains implementation of various concepts in Operating Systems.
 
 List: 
 * Disk Scheduling (Java)
